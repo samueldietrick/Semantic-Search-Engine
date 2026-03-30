@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img.png" alt="Semantic Search Engine" width="720" />
+</p>
+
 # Semantic Search Engine
 
 Busca em linguagem natural sobre um índice vetorial no [Qdrant](https://qdrant.tech/), com ranking misto: similaridade de embeddings (`sentence-transformers`) mais um componente lexical (tokens, peso por campo, fuzzy). A API é FastAPI; o front é React com Vite e Tailwind.
