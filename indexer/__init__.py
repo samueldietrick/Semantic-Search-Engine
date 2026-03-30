@@ -1,0 +1,1 @@
+"""Indexador: JSON → embeddings → Qdrant."""

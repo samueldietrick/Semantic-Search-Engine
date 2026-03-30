@@ -1,0 +1,689 @@
+[
+  {
+    "id": "item:1",
+    "titulo": "Curso de Laravel",
+    "descricao": "Aprenda Laravel do zero com projetos reais",
+    "tags": [
+      "curso",
+      "backend",
+      "educacao"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "João Silva",
+      "preco": "baixo"
+    }
+  },
+  {
+    "id": "item:2",
+    "titulo": "Python para Data Science",
+    "descricao": "Pandas, NumPy e visualização",
+    "tags": [
+      "curso",
+      "data",
+      "educacao"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "Maria",
+      "preco": "baixo"
+    }
+  },
+  {
+    "id": "item:3",
+    "titulo": "React Avançado",
+    "descricao": "Hooks, performance e testes",
+    "tags": [
+      "curso",
+      "frontend",
+      "educacao"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "Carlos",
+      "preco": "medio"
+    }
+  },
+  {
+    "id": "item:4",
+    "titulo": "DevOps com Docker",
+    "descricao": "Containers e CI/CD",
+    "tags": [
+      "curso",
+      "devops",
+      "educacao"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "Ana",
+      "preco": "baixo"
+    }
+  },
+  {
+    "id": "item:5",
+    "titulo": "Segurança em APIs",
+    "descricao": "OAuth2, JWT e boas práticas",
+    "tags": [
+      "curso",
+      "seguranca",
+      "educacao"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "Pedro",
+      "preco": "baixo"
+    }
+  },
+  {
+    "id": "item:6",
+    "titulo": "Teclado mecânico",
+    "descricao": "Switch linear, RGB, layout ABNT2",
+    "tags": [
+      "produto",
+      "perifericos",
+      "hardware"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "avaliacao": 3.7,
+      "preco": "barato"
+    }
+  },
+  {
+    "id": "item:7",
+    "titulo": "Monitor 27 4K",
+    "descricao": "IPS, 60Hz, calibração de cor",
+    "tags": [
+      "produto",
+      "monitores",
+      "hardware"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "avaliacao": 4.5,
+      "preco": "alto"
+    }
+  },
+  {
+    "id": "item:8",
+    "titulo": "Webcam Full HD",
+    "descricao": "Autofoco, microfone duplo",
+    "tags": [
+      "produto",
+      "perifericos",
+      "hardware"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "avaliacao": 3.6,
+      "preco": "medio"
+    }
+  },
+  {
+    "id": "item:9",
+    "titulo": "SSD NVMe 1TB",
+    "descricao": "Leitura 3500MB/s",
+    "tags": [
+      "produto",
+      "armazenamento",
+      "hardware"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "avaliacao": 3.5,
+      "preco": "barato"
+    }
+  },
+  {
+    "id": "item:10",
+    "titulo": "Headset sem fio",
+    "descricao": "Cancelamento de ruído",
+    "tags": [
+      "produto",
+      "audio",
+      "hardware"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "avaliacao": 3.8,
+      "preco": "alto"
+    }
+  },
+  {
+    "id": "item:11",
+    "titulo": "Autenticação em sistemas distribuídos",
+    "descricao": "Padrões de sessão e tokens stateless",
+    "tags": [
+      "artigo",
+      "tecnologia",
+      "engenharia"
+    ],
+    "metadata": {
+      "categoria": "artigo",
+      "tipo": "blog"
+    }
+  },
+  {
+    "id": "item:12",
+    "titulo": "Observabilidade com OpenTelemetry",
+    "descricao": "Traces, métricas e logs correlacionados",
+    "tags": [
+      "artigo",
+      "tecnologia",
+      "engenharia"
+    ],
+    "metadata": {
+      "categoria": "artigo",
+      "tipo": "blog"
+    }
+  },
+  {
+    "id": "item:13",
+    "titulo": "Testes de carga com k6",
+    "descricao": "Scripts e métricas úteis",
+    "tags": [
+      "artigo",
+      "tecnologia",
+      "engenharia"
+    ],
+    "metadata": {
+      "categoria": "artigo",
+      "tipo": "blog"
+    }
+  },
+  {
+    "id": "item:14",
+    "titulo": "GraphQL vs REST",
+    "descricao": "Quando usar cada abordagem",
+    "tags": [
+      "artigo",
+      "tecnologia",
+      "engenharia"
+    ],
+    "metadata": {
+      "categoria": "artigo",
+      "tipo": "blog"
+    }
+  },
+  {
+    "id": "item:15",
+    "titulo": "Ana Backend",
+    "descricao": "10 anos em Java e microsserviços",
+    "tags": [
+      "java",
+      "backend",
+      "kafka",
+      "perfil"
+    ],
+    "metadata": {
+      "categoria": "usuario",
+      "experiencia_anos": 12
+    }
+  },
+  {
+    "id": "item:16",
+    "titulo": "Bruno Frontend",
+    "descricao": "Especialista em React e acessibilidade",
+    "tags": [
+      "react",
+      "frontend",
+      "a11y",
+      "perfil"
+    ],
+    "metadata": {
+      "categoria": "usuario",
+      "experiencia_anos": 3
+    }
+  },
+  {
+    "id": "item:17",
+    "titulo": "Carla Data",
+    "descricao": "ML e pipelines em Spark",
+    "tags": [
+      "python",
+      "spark",
+      "ml",
+      "perfil"
+    ],
+    "metadata": {
+      "categoria": "usuario",
+      "experiencia_anos": 11
+    }
+  },
+  {
+    "id": "item:18",
+    "titulo": "Diego Mobile",
+    "descricao": "Kotlin e Swift em apps bancários",
+    "tags": [
+      "kotlin",
+      "swift",
+      "mobile",
+      "perfil"
+    ],
+    "metadata": {
+      "categoria": "usuario",
+      "experiencia_anos": 6
+    }
+  },
+  {
+    "id": "item:19",
+    "titulo": "Notebook gamer",
+    "descricao": "RTX, 16GB RAM, tela 144Hz",
+    "tags": [
+      "notebook",
+      "gamer"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "preco": "alto"
+    }
+  },
+  {
+    "id": "item:20",
+    "titulo": "Curso de Go",
+    "descricao": "Concorrência e APIs em Go",
+    "tags": [
+      "go",
+      "backend",
+      "curso"
+    ],
+    "metadata": {
+      "categoria": "curso",
+      "autor": "Luiz"
+    }
+  },
+  {
+    "id": "item:21",
+    "titulo": "Vue 3 Composition API",
+    "descricao": "Guia prático com Pinia",
+    "tags": [
+      "vue",
+      "frontend"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:22",
+    "titulo": "PostgreSQL avançado",
+    "descricao": "Índices, locks e replicação",
+    "tags": [
+      "sql",
+      "dba"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:23",
+    "titulo": "Artigo: OAuth2",
+    "descricao": "Fluxos authorization code e PKCE",
+    "tags": [
+      "oauth",
+      "seguranca"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:24",
+    "titulo": "Usuário: SRE",
+    "descricao": "Experiência em Kubernetes e SLOs",
+    "tags": [
+      "sre",
+      "kubernetes",
+      "observabilidade"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:25",
+    "titulo": "Mouse ergonômico",
+    "descricao": "Reduz tensão no punho",
+    "tags": [
+      "mouse",
+      "ergonomia"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "preco": "medio"
+    }
+  },
+  {
+    "id": "item:26",
+    "titulo": "Curso de Rust",
+    "descricao": "Ownership sem medo",
+    "tags": [
+      "rust",
+      "systems"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:27",
+    "titulo": "Artigo: WebSockets",
+    "descricao": "Escalabilidade e heartbeats",
+    "tags": [
+      "websocket",
+      "realtime"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:28",
+    "titulo": "Usuário: QA",
+    "descricao": "Automação com Playwright",
+    "tags": [
+      "qa",
+      "testes",
+      "playwright"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:29",
+    "titulo": "Tablet Android",
+    "descricao": "Stylus, ideal para leitura",
+    "tags": [
+      "tablet",
+      "android"
+    ],
+    "metadata": {
+      "categoria": "produto"
+    }
+  },
+  {
+    "id": "item:30",
+    "titulo": "Curso de TypeScript",
+    "descricao": "Tipos avançados e generics",
+    "tags": [
+      "typescript",
+      "frontend"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:31",
+    "titulo": "Artigo: CQRS",
+    "descricao": "Separar leitura e escrita",
+    "tags": [
+      "cqrs",
+      "arquitetura"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:32",
+    "titulo": "Usuário: Data Eng",
+    "descricao": "Airflow e dbt em produção",
+    "tags": [
+      "airflow",
+      "dbt",
+      "data"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:33",
+    "titulo": "Hub USB-C",
+    "descricao": "7 portas, alimentação",
+    "tags": [
+      "hub",
+      "usb"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "preco": "barato"
+    }
+  },
+  {
+    "id": "item:34",
+    "titulo": "Curso de Elasticsearch",
+    "descricao": "Busca textual e agregações",
+    "tags": [
+      "elasticsearch",
+      "busca"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:35",
+    "titulo": "Artigo: Feature flags",
+    "descricao": "Deploy gradual e experimentos",
+    "tags": [
+      "feature-flags",
+      "release"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:36",
+    "titulo": "Usuário: Mobile",
+    "descricao": "Flutter em apps de saúde",
+    "tags": [
+      "flutter",
+      "dart",
+      "mobile"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:37",
+    "titulo": "Cadeira escritório",
+    "descricao": "Lombar ajustável",
+    "tags": [
+      "moveis",
+      "escritorio"
+    ],
+    "metadata": {
+      "categoria": "produto"
+    }
+  },
+  {
+    "id": "item:38",
+    "titulo": "Curso de GraphQL",
+    "descricao": "Schema, resolvers e federation",
+    "tags": [
+      "graphql",
+      "api"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:39",
+    "titulo": "Artigo: Zero trust",
+    "descricao": "Identidade em redes corporativas",
+    "tags": [
+      "zero-trust",
+      "seguranca"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:40",
+    "titulo": "Usuário: Backend",
+    "descricao": "Node.js e event-driven em escala",
+    "tags": [
+      "nodejs",
+      "backend",
+      "eventos"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:41",
+    "titulo": "Microfone condensador",
+    "descricao": "Gravação de podcast",
+    "tags": [
+      "audio",
+      "podcast"
+    ],
+    "metadata": {
+      "categoria": "produto"
+    }
+  },
+  {
+    "id": "item:42",
+    "titulo": "Curso de Kubernetes",
+    "descricao": "Deployments, services e ingress",
+    "tags": [
+      "kubernetes",
+      "devops"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:43",
+    "titulo": "Artigo: Idempotência",
+    "descricao": "Chaves e deduplicação",
+    "tags": [
+      "api",
+      "rest"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:44",
+    "titulo": "Usuário: Frontend",
+    "descricao": "Design systems e Storybook",
+    "tags": [
+      "design-system",
+      "frontend"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:45",
+    "titulo": "Roteador Wi-Fi 6",
+    "descricao": "Mesh e baixa latência",
+    "tags": [
+      "rede",
+      "wifi"
+    ],
+    "metadata": {
+      "categoria": "produto"
+    }
+  },
+  {
+    "id": "item:46",
+    "titulo": "Curso de SQL",
+    "descricao": "Consultas analíticas e otimização",
+    "tags": [
+      "sql",
+      "dados"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:47",
+    "titulo": "Artigo: LGPD",
+    "descricao": "Bases legais e DPIA",
+    "tags": [
+      "lgpd",
+      "privacidade"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:48",
+    "titulo": "Usuário: Segurança",
+    "descricao": "Pentest e hardening de cloud",
+    "tags": [
+      "seguranca",
+      "cloud"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  },
+  {
+    "id": "item:49",
+    "titulo": "Curso de UX Research",
+    "descricao": "Entrevistas e jornadas do usuário",
+    "tags": [
+      "ux",
+      "pesquisa"
+    ],
+    "metadata": {
+      "categoria": "curso"
+    }
+  },
+  {
+    "id": "item:50",
+    "titulo": "Produto barato com boa avaliação",
+    "descricao": "Fone intra-auricular básico bem avaliado",
+    "tags": [
+      "audio",
+      "custo-beneficio"
+    ],
+    "metadata": {
+      "categoria": "produto",
+      "preco": "barato",
+      "avaliacao": 4.8
+    }
+  },
+  {
+    "id": "item:51",
+    "titulo": "Documentos sobre autenticação",
+    "descricao": "Coleção de guias SAML e OIDC",
+    "tags": [
+      "autenticacao",
+      "documentacao"
+    ],
+    "metadata": {
+      "categoria": "artigo"
+    }
+  },
+  {
+    "id": "item:52",
+    "titulo": "Pessoa backend sênior",
+    "descricao": "Arquitetura de APIs e mensageria",
+    "tags": [
+      "backend",
+      "senior",
+      "api"
+    ],
+    "metadata": {
+      "categoria": "usuario"
+    }
+  }
+]

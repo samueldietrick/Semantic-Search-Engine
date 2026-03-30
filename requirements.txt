@@ -1,0 +1,3 @@
+# Instala indexador + API (desenvolvimento)
+-r indexer/requirements.txt
+-r api/requirements.txt
